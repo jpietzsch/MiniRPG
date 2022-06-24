@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e959d083-5953-4c5d-bccb-847c85a36260" name="Changes" comment="First genuine Java Project">
+      <change afterPath="$PROJECT_DIR$/src/Controls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <list id="3ba366f2-aafb-47b5-9174-61c1c4934317" name="Changes by paul" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniRpg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniRpg.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/Main.java">
+      <ranges>
+        <range start1="37" end1="37" start2="37" end2="38" changelist="e959d083-5953-4c5d-bccb-847c85a36260" />
+        <range start1="95" end1="96" start2="96" end2="97" changelist="3ba366f2-aafb-47b5-9174-61c1c4934317" />
+        <range start1="102" end1="103" start2="103" end2="104" changelist="e959d083-5953-4c5d-bccb-847c85a36260" />
+        <range start1="261" end1="262" start2="262" end2="263" changelist="3ba366f2-aafb-47b5-9174-61c1c4934317" />
+        <range start1="270" end1="271" start2="271" end2="272" changelist="3ba366f2-aafb-47b5-9174-61c1c4934317" />
+        <range start1="273" end1="275" start2="274" end2="277" changelist="3ba366f2-aafb-47b5-9174-61c1c4934317" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ApSUYLDxHGH8TT7ARhDy0Mbq7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MiniRPG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e959d083-5953-4c5d-bccb-847c85a36260" name="Changes" comment="" />
+      <created>1655705050754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655705050754</updated>
+      <workItem from="1655705052302" duration="1449000" />
+      <workItem from="1655710791912" duration="226000" />
+      <workItem from="1655711038278" duration="1731000" />
+      <workItem from="1655712868755" duration="157000" />
+      <workItem from="1655713053212" duration="3325000" />
+      <workItem from="1655717528056" duration="163000" />
+      <workItem from="1655717719411" duration="1917000" />
+      <workItem from="1655726226908" duration="64000" />
+      <workItem from="1655729645898" duration="97000" />
+      <workItem from="1655730436955" duration="11535000" />
+      <workItem from="1655802847295" duration="1046000" />
+      <workItem from="1655875978595" duration="12194000" />
+      <workItem from="1655904581730" duration="20916000" />
+    </task>
+    <task id="LOCAL-00001" summary="s">
+      <created>1655794131448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655794131448</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hgfdhgfdhgf">
+      <created>1655794362146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655794362146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First genuine Java Project">
+      <created>1655803202097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655803202097</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First genuine Java Project">
+      <created>1656049862174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656049862174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="s" />
+    <MESSAGE value="hgfdhgfdhgf" />
+    <MESSAGE value="First genuine Java Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First genuine Java Project" />
+  </component>
+</project>
